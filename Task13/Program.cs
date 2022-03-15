@@ -6,7 +6,7 @@
 32679 -> 6
 */
 
-int number = 148123;
+int number = 32679;
 int num = number;
 
 if ((number / 100) > 0)
